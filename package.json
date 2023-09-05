@@ -7,7 +7,7 @@
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "Ajeet Patel",
+  "author": "Raja Kumar",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.3",
