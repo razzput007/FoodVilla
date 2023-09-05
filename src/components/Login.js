@@ -14,7 +14,7 @@ const Login = () => {
     password: "",
   });
 
-  //react-router-dom hook to navigate to home once logged in.
+  
   const navigate = useNavigate();
 
   //store operations
